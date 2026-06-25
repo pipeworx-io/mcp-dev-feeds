@@ -58,6 +58,7 @@ const FEEDS: Record<string, FeedDef> = {
   supabase: { title: "Supabase", url: "https://supabase.com/rss.xml", category: "dev", source: "supabase.com", description: "Supabase product & engineering" },
   'discord-blog': { title: "Discord Blog", url: "https://discord.com/blog/rss.xml", category: "dev", source: "discord.com", description: "Discord product & engineering" },
   vercel: { title: "Vercel", url: "https://vercel.com/atom", category: "dev", source: "vercel.com", description: "Vercel & frontend-platform news" },
+  'arxiv-cs-se': { title: "arXiv cs.SE", url: "https://rss.arxiv.org/rss/cs.SE", category: "dev", source: "arxiv.org", description: "arXiv Software Engineering preprints (cs.SE)" },
 };
 
 const tools: McpToolExport['tools'] = [
