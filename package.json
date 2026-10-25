@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-dev-feeds",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "Developer Feeds MCP.",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-eb6c2aa955289e38dd01f7ae649d31c54eca28d1d8cefbc5ffbfcedd0353a0fd",
-    "sourceCommit": "5749f83c0ea115fab4c0c0ef04b66b05f2507d67"
+    "sourceHash": "v1-42c9d2d2f3b1805fb78bf4b9ccf072c610c51b0ea4e2f112c866827c9779e9f0",
+    "sourceCommit": "29fb434ca65fe0f61191f19c3502f583f5fb99d7"
   }
 }
